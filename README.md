@@ -75,7 +75,7 @@ This comprehensive data collection and analysis suite is designed for capturing 
 
 ## 📸 Screenshots
 
-   ![Alt text for the image]([image_url](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/Main_window.png))
+   ![Alt text for the image]((https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/Main_window.png))
    
 ---
 
