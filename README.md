@@ -86,6 +86,10 @@ This comprehensive data collection and analysis suite is designed for capturing 
 * **Issue:** Streamlit server did not start.
 
   * **Solution:** Try reopen the Streamlit using the dedicated button in the GUI.
+  * 
+* **Issue:** video does not change automatically when I change dataset.
+
+  * **Solution:** Press the Play rewiev Video button twice to change the video.
 
 If problems persist, please open an issue on GitHub.
 
