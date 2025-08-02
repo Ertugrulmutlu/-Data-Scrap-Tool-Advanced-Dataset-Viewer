@@ -75,8 +75,8 @@ This comprehensive data collection and analysis suite is designed for capturing 
 
 ## 📸 Screenshots
 
-*Coming Soon: Screenshots showcasing application features and analytics visualizations.*
-
+   ![Alt text for the image]([image_url](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/Main_window.png))
+   
 ---
 
 ## 🐞 Troubleshooting
@@ -148,4 +148,4 @@ Feel free to fork this project, create pull requests, or open issues!
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
