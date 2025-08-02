@@ -85,7 +85,7 @@ This comprehensive data collection and analysis suite is designed for capturing 
 
 * **Issue:** Streamlit server did not start.
 
-  * **Solution:** Try restarting the Streamlit server using the dedicated button in the GUI.
+  * **Solution:** Try reopen the Streamlit using the dedicated button in the GUI.
 
 If problems persist, please open an issue on GitHub.
 
