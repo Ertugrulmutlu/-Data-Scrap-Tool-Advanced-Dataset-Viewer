@@ -75,7 +75,18 @@ This comprehensive data collection and analysis suite is designed for capturing 
 
 ## 📸 Screenshots
 
-   ![Alt text for the image](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/Main_window.png)
+   ![Main Window](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/Main_window.png)
+   ![Dataset Editor](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/dataset_editor.png)
+   ![Dataset Editor with video](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/dataset_editor_with_videop.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit1.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit2.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit3.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit4.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit6.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit7.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit8.png)
+   ![Streamlit](https://github.com/Ertugrulmutlu/-Data-Scrap-Tool-Advanced-Dataset-Viewer/blob/main/photos/streamlit9.png)
+
    
 ---
 
