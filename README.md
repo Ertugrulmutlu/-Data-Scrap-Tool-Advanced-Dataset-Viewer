@@ -81,9 +81,11 @@ This comprehensive data collection and analysis suite is designed for capturing 
 
 ## 🐞 Troubleshooting
 
-* **Issue Loading Dataset:** Ensure file paths are correct and `.npz` files are not corrupted.
-* **GUI Freezing:** Verify system resources and ensure minimal background tasks.
-* **Video Sync Issues:** Confirm video framerate matches recorded FPS settings.
+### Known Issues & Solutions
+
+* **Issue:** Streamlit server did not start.
+
+  * **Solution:** Try restarting the Streamlit server using the dedicated button in the GUI.
 
 If problems persist, please open an issue on GitHub.
 
@@ -104,7 +106,8 @@ project_root/
 │   ├── capture.py
 │   ├── data_collector.py
 │   ├── overlay.py
-├── streamlit_app.py
+|   ├── streamlit_app.py
+|
 ├── collected/
 │   └── datasets (*.npz)
 ├── recordings/
@@ -130,40 +133,8 @@ pip install -r requirements.txt
   ```bash
   python Data_scrap_tool.py
   ```
-
-* **Tkinter Dataset Viewer:**
-
-  ```bash
-  python -m dataset_viewer.viewer
-  ```
-
-* **Streamlit Analytics:**
-
-  ```bash
-  streamlit run streamlit_app.py
-  ```
-
 ---
 
-## 📦 Requirements
-
-Include a `requirements.txt` with:
-
-```
-tkinter
-streamlit
-numpy
-opencv-python
-pandas
-plotly
-matplotlib
-scipy
-seaborn
-pynput
-mss
-```
-
----
 
 ## 🧑‍💻 Contributing
 
